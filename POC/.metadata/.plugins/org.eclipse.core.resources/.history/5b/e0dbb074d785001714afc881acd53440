@@ -1,0 +1,27 @@
+package sistemaacademico
+
+class Aluno {
+	String nome
+	Date nascimento
+	String sexo
+	String cpf
+	String telefone
+	String celular
+	String email
+	String escolaridade
+    static constraints = {
+		sexo inList['Masculino', 'Feminino']
+    }
+	static mapping ={
+		table 'Aluno'
+		nome column: 'nome'
+		nascimento column: 'nascimento'
+		sexo column: 'sexo'
+		cpf column: 'cpf'
+		telefone column: 'telefone'
+		celular column: 'celular'
+		email column: 'email'
+		escolaridade column: 'escolaridade'
+		
+	}
+}

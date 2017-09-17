@@ -1,0 +1,8 @@
+package sistemaacademico
+
+class Aluno {
+	static constraints = {
+	
+    }
+	
+}

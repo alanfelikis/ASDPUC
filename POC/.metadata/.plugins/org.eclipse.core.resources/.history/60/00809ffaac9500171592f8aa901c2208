@@ -1,0 +1,12 @@
+package sistemaacademico
+
+class AreaRestritaController {
+
+	def logar(){
+		render(view: "/areaRestrita/logar")
+	}
+	
+	def index(){
+		render(view: "/areaRestrita/index")
+	}
+}

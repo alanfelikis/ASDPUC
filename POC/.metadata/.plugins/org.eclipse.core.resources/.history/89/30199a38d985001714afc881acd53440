@@ -1,0 +1,9 @@
+package sistemaacademico
+
+class Aluno {
+	String nome
+	static constraints = {
+	
+    }
+	
+}

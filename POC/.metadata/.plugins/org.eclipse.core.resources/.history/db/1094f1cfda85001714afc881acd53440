@@ -1,0 +1,36 @@
+package sistemaacademico
+
+class Aluno {
+	String nome
+	Date nascimento
+	String sexo
+	String cpf
+	String telefone
+	String celular
+	String email
+	String escolaridade
+	
+	Date DataNasc = '2000-01-01'
+	
+	static constraints = {
+		nome(nullable:false, blank:false)
+		nascimento(nullable:false, blank:false)
+		sexo inList['Masculino', 'Feminino']
+		cpf(Unique:true, nullable:false, blank:false)
+		telefone(nullable:false, blank:false)
+		celular(nullable:false, blank:false)
+		email(nullable:false, blank:false, email:true)
+		escolaridade inList['Ensino Médio', 'Graduação', 'Pós Graduação']
+    }
+	static mapping ={
+		table 'Aluno'
+		nome column: 'nome'
+		nascimento column: 'nascimento'
+		sexo column: 'sexo'
+		cpf column: 'cpf'
+		telefone column: 'telefone'
+		celular column: 'celular'
+		email column: 'email'
+		escolaridade column: 'escolaridade'
+	}
+}
