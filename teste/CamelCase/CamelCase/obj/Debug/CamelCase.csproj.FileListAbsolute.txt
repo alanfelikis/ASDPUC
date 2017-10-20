@@ -1,0 +1,7 @@
+D:\teste\CamelCase\CamelCase\bin\Debug\CamelCase.exe.config
+D:\teste\CamelCase\CamelCase\bin\Debug\CamelCase.exe
+D:\teste\CamelCase\CamelCase\bin\Debug\CamelCase.pdb
+D:\teste\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
+D:\teste\CamelCase\CamelCase\obj\Debug\CamelCase.exe
+D:\teste\CamelCase\CamelCase\obj\Debug\CamelCase.pdb
+D:\teste\CamelCase\CamelCase\obj\Debug\CamelCase.csprojResolveAssemblyReference.cache

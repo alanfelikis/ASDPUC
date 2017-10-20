@@ -1,0 +1,7 @@
+D:\teste\Pangramas\Pangramas\obj\Debug\Pangramas.csprojResolveAssemblyReference.cache
+D:\teste\Pangramas\Pangramas\obj\Debug\Pangramas.csproj.CoreCompileInputs.cache
+D:\teste\Pangramas\Pangramas\bin\Debug\Pangramas.exe.config
+D:\teste\Pangramas\Pangramas\bin\Debug\Pangramas.exe
+D:\teste\Pangramas\Pangramas\bin\Debug\Pangramas.pdb
+D:\teste\Pangramas\Pangramas\obj\Debug\Pangramas.exe
+D:\teste\Pangramas\Pangramas\obj\Debug\Pangramas.pdb
